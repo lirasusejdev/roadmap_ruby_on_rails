@@ -54,6 +54,7 @@ Este é um projeto **colaborativo**! Sua experiência pode ajudar outros desenvo
 - ❌ **Não testar código:** Testes desde o início
 - ❌ **Copiar sem entender:** Compreenda cada linha
 - ❌ **Isolar-se:** Comunidade é fundamental
+- ❌ **Nunca deixe de perguntar:** Se tem dúvidas, pergunte.
 
 ## 📚 **Recursos Recomendados**
 
@@ -102,7 +103,7 @@ Esta organização coloca o curso do Rafael Biriba em destaque como um recurso e
 
 ## 🎯 **Meta Final**
 
-### 📋 **Checklist para Candidatura**
+### 📋 **Checklist**
 
 #### **👨‍💻 Habilidades Técnicas**
 - ✅ Ruby sólido (POO, blocks, gems)
