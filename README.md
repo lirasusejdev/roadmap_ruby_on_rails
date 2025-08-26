@@ -68,6 +68,7 @@ Este é um projeto **colaborativo**! Sua experiência pode ajudar outros desenvo
 | **🎯 Curso** | [Aprendendo a Programar com Ruby - Rafael Biriba](https://rafaelbiriba.com/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/) | **🔰 Básico** | 🇧🇷 **Português** |
 | **🌐 Docs** | guides.rubyonrails.org | Todos | 🇺🇸 Inglês |
 | **💬 Comunidade** | Discord Ruby Brasil | Todos | 🇧🇷 Português |
+| **🌐 Exercicios** | [exercism.org](https://exercism.org/tracks/ruby) | Todos | 🇺🇸 Inglês |
 
 ### 🇧🇷 **Recursos em Português (Recomendados para Iniciantes)**
 
